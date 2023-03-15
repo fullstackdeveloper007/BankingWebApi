@@ -10,7 +10,8 @@ namespace BankingAPI.Controllers
     public class UserController : ApiController
     {
         public IHttpActionResult GetTest()
-        {
+         {
+            //test
             //var studet = st.FirstOrDefault((s) => s.stuID == stuid);
             //if (studet == null)
             //{
